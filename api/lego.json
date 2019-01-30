@@ -1,0 +1,53 @@
+{
+  "legoCreations": [
+    {
+      "id": 1,
+      "creator": "Nathan",
+      "colorId": 1,
+      "shape": "Line",
+      "creation": "Red Line"
+    },
+    {
+      "id": 2,
+      "creator": "Ntha",
+      "colorId": 1,
+      "shape": "aasf",
+      "creation": "dfsdf"
+    },
+    {
+      "id": 3,
+      "creator": "zsd",
+      "colorId": 1,
+      "shape": "sdv",
+      "creation": "sd"
+    },
+    {
+      "id": 4,
+      "creator": "New",
+      "colorId": 1,
+      "shape": "Stuff",
+      "creation": ":)"
+    },
+    {
+      "id": 5,
+      "creator": "James",
+      "colorId": 1,
+      "shape": "Stuff",
+      "creation": ":("
+    }
+  ],
+  "color": [
+    {
+      "id": 1,
+      "name": "red"
+    },
+    {
+      "id": 2,
+      "name": "Green"
+    },
+    {
+      "id": 3,
+      "name": "Yellow"
+    }
+  ]
+}
